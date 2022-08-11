@@ -5,3 +5,5 @@ Hello students!!!
 
 
 2+2 = 4
+
+Do we need their username for the commits?  Or they manually update their commits with their names? 
